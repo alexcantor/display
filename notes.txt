@@ -13,3 +13,8 @@ DISPLAY: This allows you to convert block elements into inline elements, for exa
 Another value for Display property is inline-block. What this will do, is to allow block elements to be converted to inline elements and width and height values can be set for these elements.
 
 z-index: This allows to set how far back or forward overlapping elements will be displayed.
+
+FLOAT: This property will allow you to move an element to the far left or right of a page. Values are float: right; float: left;
+
+
+
